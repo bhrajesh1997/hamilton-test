@@ -17,4 +17,4 @@ jobs:
         server: www.cipher.co.tz/
         username: ${{ secrets.ftptest@listedunits.com }}
         password: ${{ secrets.ftp_password }}
-        server-dir: / ftp.listedunits.com/
+        server-dir: /ftp.public_html/ftpsample/
